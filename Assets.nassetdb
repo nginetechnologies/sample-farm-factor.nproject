@@ -19,10 +19,6 @@
         "path": "Assets/M_Skybox.mtli.nasset",
         "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
     },
-    "6f07f2ff-f6c1-49f2-ba3c-7b335b4fad76": {
-        "assetTypeGuid": "dda212f1-b3e6-406b-b801-2079d4a65561",
-        "path": "Assets/Physical Materials/Box.physmat.nasset"
-    },
     "a6e8b812-86ee-20ce-4d85-fe4a3ec07690": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Cubemaps/Default_Skybox.tex.nasset"
