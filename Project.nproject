@@ -1,6 +1,7 @@
 {
     "name": "Farm Factor",
     "guid": "320707a8-4fd6-41ab-b2de-d08c95893323",
+    "database_guid": "e3922f76-1d13-e75c-8168-6bf7b52e5f1c",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,9 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "f219ecab-2683-4910-8f8e-9309bbe2eb9f",
+    "thumbnail_guid": "836893a9-caaa-91b0-2872-4c0429c42a37",
     "default_scene": "2e92069c-f9c5-4129-9983-7d5f72d2c5ee",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "source": "Project.nproject",
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
