@@ -571,6 +571,16 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "15dec5c3-561c-b74b-f77c-60894393e4df": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human Human.meshskin.nasset",
+        "dependencies": [
+            "301030a4-0bf6-e238-223f-09d749f8ce6f",
+            "f78d869a-2b2c-15c4-1738-3d279125f972",
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3"
+        ]
+    },
     "1612479e-8227-4086-861c-a6a3e1ed9f41": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -915,6 +925,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "25ce46c4-20ca-438a-e413-34fbf78f4fa3": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Material Instances/Mini Human.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "cbc2fe7b-7c3c-b413-76fd-6ca939f9c488"
+        ]
+    },
     "262b2580-0458-7848-60b2-bbdc4554bc7b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1029,6 +1047,18 @@
     "2f768a1e-6da5-18e9-a604-41b578a9cfa5": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Black.mtli.nasset.tex.nasset"
+    },
+    "301030a4-0bf6-e238-223f-09d749f8ce6f": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human Human.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "3026605c-5eea-e65a-962e-67f79eb18126": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1416,6 +1446,14 @@
     "41c626ca-d958-0da2-3922-8c188bcfd004": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Green Dark 4.mtli.nasset.tex.nasset"
+    },
+    "41eecb07-491c-4a32-aeb8-e4bf73ca92fc": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Air.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "425fb729-3824-e28f-325b-981e08cb2561": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3647,6 +3685,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "a137d2ec-850b-9460-79ed-bafa15fc45c5": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK_Mini_Human.scene.nasset",
+        "dependencies": [
+            "eb593b7b-816f-7125-4b45-b6752c76cb62"
+        ]
+    },
     "a162d1f7-e282-9663-4fc7-23e9167309a4": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4195,6 +4241,14 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Run.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
+    },
     "bd0c17da-bf15-f659-bed9-278f4c44fc95": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Mushroom Crop.mesh.nasset/Thumbnails/Mushroom Crop.mesh.nasset.tex.nasset"
@@ -4239,6 +4293,14 @@
         "dependencies": [
             "a6a5e79f-61fe-86cb-b97e-26a09082354a",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "be0bce66-279a-4c2c-ae0b-5c28950a4bf6": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Walk.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
         ]
     },
     "be7a79c7-93a2-b6d2-696e-dac997d4d658": {
@@ -4499,6 +4561,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "cbc2fe7b-7c3c-b413-76fd-6ca939f9c488": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Textures/T_Mini_Dungeon_D.tex.nasset"
+    },
     "cce6e88e-ccf1-206c-aada-8fb95d404022": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4689,6 +4755,24 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d43d22f2-a02a-1c33-39ae-7aa1716f0d55": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "d47b6347-605b-48a6-acc8-05a5281325a3": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/Player_Scripts/Mini Human.scene.nasset",
+        "thumbnail": "c10af265-b935-473d-b8e2-2d96a0f873bf",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea",
+            "d6a09c51-8ccf-416e-8154-66f9404d2a44"
+        ],
+        "dependencies": [
+            "eb593b7b-816f-7125-4b45-b6752c76cb62"
+        ]
+    },
     "d4ca357c-cb6b-1148-9c6a-594409adc484": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4796,6 +4880,14 @@
     "d7e9833e-4385-625f-717f-dd9f4dd93bb1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Wheat 4.mesh.nasset/Thumbnails/Wheat 4.mesh.nasset.tex.nasset"
+    },
+    "d84d31b9-25e5-44f6-8b5e-ca00741886b3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Animations/Mini Idle.anim.nasset",
+        "dependencies": [
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55"
+        ]
     },
     "d8af8d5a-29e1-576b-3f8a-a79e73f4cb7b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5179,6 +5271,24 @@
         "thumbnail": "76ba3f74-e933-321f-9a70-62c63773b439",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "eb593b7b-816f-7125-4b45-b6752c76cb62": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/SK_Mini_Human.scene.nasset/SK Mini Human.mesh.nasset/SK Mini Human.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "25ce46c4-20ca-438a-e413-34fbf78f4fa3",
+            "301030a4-0bf6-e238-223f-09d749f8ce6f",
+            "15dec5c3-561c-b74b-f77c-60894393e4df",
+            "d43d22f2-a02a-1c33-39ae-7aa1716f0d55",
+            "d84d31b9-25e5-44f6-8b5e-ca00741886b3",
+            "be0bce66-279a-4c2c-ae0b-5c28950a4bf6",
+            "bca4f5c9-096e-45dd-9dfd-5323ac3df1c0",
+            "41eecb07-491c-4a32-aeb8-e4bf73ca92fc"
         ]
     },
     "ec06bf7d-89f5-4337-6761-f673ef343b03": {
