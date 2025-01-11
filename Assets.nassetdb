@@ -17,6 +17,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0046dfb5-7997-ccea-b99b-3d4109e98a49": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Dirt 3.audio.nasset"
+    },
     "006e2829-ce6e-39ab-f3df-07fa0941823c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -28,6 +33,11 @@
             "f8ed1d5b-fac5-2526-b773-fe09fdf04b41",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "0138055c-90a7-fe94-b517-6d1fb841849b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 4.audio.nasset"
     },
     "0188f6fd-5fc3-74ec-e2b3-145e4093cf21": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -76,6 +86,11 @@
     "02243a5a-8a2a-5d82-8ac3-030b5387701f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Orange 3.mesh.nasset/Thumbnails/Orange 3.mesh.nasset.tex.nasset"
+    },
+    "03675ea8-dddd-dbbd-733b-73d1cecc3967": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump 2.audio.nasset"
     },
     "036af118-11af-421a-5a0b-3e6bf11e73a2": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -238,6 +253,20 @@
     "07d8cf22-7938-c95a-c899-15f3e0e5fc58": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Barn Shutter.mesh.nasset/Thumbnails/Barn Shutter.mesh.nasset.tex.nasset"
+    },
+    "080659e0-de84-4ae6-bd43-8ad92e530bfe": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Metal.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "2cdce3e4-f192-d5b5-a79b-49d988ce99d2"
+        ]
+    },
+    "0897ddcf-54f2-dd50-f2ae-2efaa18435b5": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Water 1.audio.nasset"
     },
     "08cafd1a-7578-c500-49e7-6a81629f0891": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -457,12 +486,25 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "0d4f41d5-d66e-f2e1-8135-1da2700dbf1a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Flames_D.tex.nasset"
+    },
     "0e0a48ba-6d92-60fb-3fdb-dde55d52f2e4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Objects/Material Instances/Wood.mtli.nasset",
         "thumbnail": "aa2a5b50-7faa-ceed-7013-3adae88e7645",
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
+    "0e8add58-ef1a-4626-a077-54ebf77e1f1a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Smoke 2.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "8b92903b-e7de-0b9b-3cd6-9e0b8976a279"
         ]
     },
     "0e9732e1-f965-6bf5-0bf7-18b0244396fb": {
@@ -472,6 +514,11 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "0f39b17e-a90e-6257-03c1-13af5c82cc2a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/Countdown Up.audio.nasset"
     },
     "0f6df076-3f2e-fd8b-72d1-8e1919ad13ad": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -515,6 +562,11 @@
             "71ad303a-92ef-e453-f983-6be2a621e04f"
         ]
     },
+    "1062c3cc-0a7b-c884-814b-4e93df65a383": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump 4.audio.nasset"
+    },
     "109b6706-3c85-3fab-57c2-6f7f688a1fd6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Coconuts.mtli.nasset.tex.nasset"
@@ -544,6 +596,11 @@
             "7a3d6bc7-890d-8c1b-9745-c5da9066e85d",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "12afbd45-4707-d34c-a8f3-3d9cc6c9e813": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump 5.audio.nasset"
     },
     "14a540d2-658c-4406-6967-b2a5614d2a3b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -649,6 +706,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Bamboo 1.mesh.nasset/Thumbnails/Bamboo 1.mesh.nasset.tex.nasset"
     },
+    "178b9d39-9c2c-d7ee-a621-eeca61bde758": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Debris_Concrete_D.tex.nasset"
+    },
     "17ef327f-044d-490d-599e-9435ec297401": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Objects/Material Instances/Green Dark 3.mtli.nasset",
@@ -707,6 +768,15 @@
         "dependencies": [
             "f0639af7-ff0a-2e0f-85b0-d52b409cfac4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "1a2cd4b8-2ab7-4f90-ab6a-5c2bc82ee86d": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Ember.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "5d685bab-7572-4e3e-f9e9-62407c9640c8"
         ]
     },
     "1a5058cc-81b6-b676-aed7-1463bc0e8fb8": {
@@ -778,6 +848,11 @@
             "eb359955-bca5-f21c-47d6-08bf26eae25e",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "1e99c45b-aaf5-0533-8ff6-1ba49e4004cc": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Wood 5.audio.nasset"
     },
     "1f290a4f-3882-5b31-bbbe-5add3410951f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -881,6 +956,10 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Pumpkin 2.mesh.nasset/Thumbnails/Pumpkin 2.mesh.nasset.tex.nasset"
     },
+    "233fde19-e157-0698-5cd9-e3f5a48a89b2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Shockwave_D.tex.nasset"
+    },
     "23d6454e-58d9-6b0c-9c72-8160dc562fda": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Pumpkin 4.mesh.nasset/Thumbnails/Pumpkin 4.mesh.nasset.tex.nasset"
@@ -896,6 +975,11 @@
             "566ce725-15cc-0c5c-40c8-00bf66dcb95f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "24cc58ea-9363-56d6-23a5-d59010f4a517": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Stone 5.audio.nasset"
     },
     "24f83d62-28d4-d9ce-b6f2-e45c0f130c13": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -965,6 +1049,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "26fba001-f51c-fb45-dbaa-97a7c3128023": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Smoke_1_D.tex.nasset"
+    },
     "27e2109b-cb73-8805-4ae0-bfe2c2cc318b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1000,6 +1088,10 @@
             "e5082399-bc8d-60c6-9fca-c50e76a27fea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "2a745502-79d0-ce22-e2be-e0ffa9e5c878": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Blood_D.tex.nasset"
     },
     "2b86edd2-ec15-dd94-9f2b-f6172474c2a7": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1037,6 +1129,24 @@
         "dependencies": [
             "566ce725-15cc-0c5c-40c8-00bf66dcb95f",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "2cdce3e4-f192-d5b5-a79b-49d988ce99d2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Impact_Metal_D.tex.nasset"
+    },
+    "2e5d6458-f003-4d2a-9a46-0f4926ec9e16": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Spawn/Spawn Airy 1.audio.nasset"
+    },
+    "2e639078-9076-4c0b-9122-104276c94b01": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Shockwave.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "233fde19-e157-0698-5cd9-e3f5a48a89b2"
         ]
     },
     "2e92069c-f9c5-4129-9983-7d5f72d2c5ee": {
@@ -1089,6 +1199,11 @@
             "cdf7eb8b-1dba-baa8-ce85-cb0dbc0335d4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "30ffe927-23e0-f9e7-0b6f-0da71243aa6a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Dirt 1.audio.nasset"
     },
     "314272a1-be44-1d6b-828b-0cd0d2c8481f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1151,6 +1266,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "33e6c9df-bd82-8500-78dc-f03c53032a7c": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Wood 2.audio.nasset"
+    },
     "34b20961-99ec-94ca-776a-5684b0081293": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Barn Stable.mesh.nasset/Thumbnails/Barn Stable.mesh.nasset.tex.nasset"
@@ -1202,6 +1322,16 @@
             "cedc6e40-d4fe-ee85-1bc3-9f95e298b628",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "35d28a46-0fff-ef80-c6a7-b0a19dfe96eb": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 6.audio.nasset"
+    },
+    "360ef70a-fadd-53dc-7999-07e4e0ef790d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Water 4.audio.nasset"
     },
     "365015f6-84ac-e9c3-f0c2-379637051cee": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1266,6 +1396,11 @@
             "7d332097-9c91-6137-94c0-558d2756b970",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "38bdd4b3-001f-58d0-8af3-a3dcb40a44c4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Water 5.audio.nasset"
     },
     "395a88c0-4690-c7af-5f17-30e52a29cda9": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1367,6 +1502,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "3e905ad2-d1fa-4259-a456-42da0d17f5dd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Completion/Level End A.audio.nasset"
+    },
     "3ef6b753-bedd-ad50-efa4-d70efb363fe3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1380,6 +1520,11 @@
             "d4ca357c-cb6b-1148-9c6a-594409adc484",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "3f0777fe-b793-52d9-d1fe-979b372c77b5": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Stone 3.audio.nasset"
     },
     "3f869354-be30-41cb-8e2b-a1f54801eadd": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1510,8 +1655,8 @@
     "43a936cf-b674-4290-a860-6ee825e44444": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "componentTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/M_Skybox.mtli.nasset",
-        "thumbnail": "8bcac5e9-3d51-56dc-992a-a0c38bb6b2e6"
+        "path": "Assets/Materials/M_Farm_Skybox.mtli.nasset",
+        "thumbnail": "1e71738a-10e5-7160-578f-434ede5c7576"
     },
     "43b7a0ab-b591-5f39-4a94-4ef6877ba82b": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -1592,6 +1737,15 @@
     "48d7425e-ad17-0f8e-b55c-60512ef7553c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Tomato Crop.mesh.nasset/Thumbnails/Tomato Crop.mesh.nasset.tex.nasset"
+    },
+    "48dc185a-a666-4092-a4c9-204cc379b942": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Laser Dot.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "7a6f4a77-339c-e8f8-a2c7-814e20190ffa"
+        ]
     },
     "491e6208-d5e9-b959-c9d7-80b0021440a3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -1731,6 +1885,10 @@
             "bd2c7242-e74e-3043-a287-f47d7ad8abcb"
         ]
     },
+    "4d50769a-9500-1a71-ea0e-eb58c62f9a26": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Laser_Sight_D.tex.nasset"
+    },
     "4d6a0bd3-d8d5-0a8c-52f2-a33f50ba3771": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1861,6 +2019,11 @@
             "5d810ed7-35c7-19aa-db9f-1fe6de072ba1"
         ]
     },
+    "4f8304c5-f641-dafd-fda1-4317658617d9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump 3.audio.nasset"
+    },
     "4fb0a0f9-6912-f898-0ce4-f17ff8f0db27": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1900,6 +2063,11 @@
             "62ef4e9a-7649-a807-c260-81ab43c56281",
             "fffad6b4-ba4b-fff2-c2b3-cdd558158691"
         ]
+    },
+    "5066ded4-1eab-2484-887d-1c6f33a32d62": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/Countdown Down.audio.nasset"
     },
     "50bcd864-0e29-f975-7506-ab7ffcdd9bac": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -2109,6 +2277,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "55ec197c-5176-3c98-8f22-ea072f4fb75e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Wood 1.audio.nasset"
+    },
     "566ce725-15cc-0c5c-40c8-00bf66dcb95f": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Objects/Material Instances/Green.mtli.nasset",
@@ -2164,6 +2337,11 @@
             "e590933a-c182-61bc-bb26-fd32bfe3a705",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "57d24c04-9e67-e45d-9e67-52af5f866cd9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Dirt 4.audio.nasset"
     },
     "57e4083c-fccd-d395-11f8-dd2517edbff3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2279,6 +2457,14 @@
             "70df5710-8db4-1ed6-4deb-8d443b49fbf0"
         ]
     },
+    "5d4b929f-6e4c-fe0d-132e-0235cafe7aad": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Bullet_D.tex.nasset"
+    },
+    "5d685bab-7572-4e3e-f9e9-62407c9640c8": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Ember_D.tex.nasset"
+    },
     "5d810ed7-35c7-19aa-db9f-1fe6de072ba1": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2361,6 +2547,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "610571af-6574-3f2b-5e44-75567df99802": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Stone 1.audio.nasset"
+    },
     "618aad57-6dbd-a37c-21fc-4d348355cb7b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2372,6 +2563,11 @@
             "576be0af-bd56-317d-2037-37fe6ad04b58",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "61f507e3-880c-415c-bdd4-2df5a82b1efd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Pickups/Pickup Spinny 1.audio.nasset"
     },
     "62ef4e9a-7649-a807-c260-81ab43c56281": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -2408,6 +2604,11 @@
             "e590933a-c182-61bc-bb26-fd32bfe3a705",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "63a61fc2-bb58-acb9-f729-98b1a7901a50": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/Music/Khaki Plaza.audio.nasset"
     },
     "64200904-4f5c-2d43-3218-8013e1922029": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -2462,6 +2663,16 @@
             "e5082399-bc8d-60c6-9fca-c50e76a27fea",
             "c7a6d8b6-c363-d459-915f-aeafe93ea8d3"
         ]
+    },
+    "65c211f2-6b4b-0189-f2fb-d44e2871bf19": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Stone 4.audio.nasset"
+    },
+    "65d40d46-0212-fee2-17d5-ee12ad991fc8": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Water 2.audio.nasset"
     },
     "65dc4059-6edb-d807-5a59-809b53db2b49": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2669,6 +2880,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Orange.mtli.nasset.tex.nasset"
     },
+    "6d068326-d9a0-40b6-a8b4-823ce3662c2b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Spawn/Spawn Digital 1.audio.nasset"
+    },
+    "6d539138-2f8c-e649-2385-4e452a16dfd7": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Tick 4.audio.nasset"
+    },
     "6d5851f2-0f28-db01-6b3f-57f1267674b8": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -2781,6 +3002,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "71070952-eac9-749d-b964-e70746221418": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Water 5.audio.nasset"
+    },
     "71ad303a-92ef-e453-f983-6be2a621e04f": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -2844,6 +3070,11 @@
             "0e0a48ba-6d92-60fb-3fdb-dde55d52f2e4",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "73779a00-36b9-cade-47e8-38d45737a70a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Wood 1.audio.nasset"
     },
     "741a0297-bf05-eca8-d95d-fbd6d54901cf": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -2935,6 +3166,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Bush Berries 2.mesh.nasset/Thumbnails/Bush Berries 2.mesh.nasset.tex.nasset"
     },
+    "78510732-4f8e-eeca-34fc-06523cf9586f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Wood 5.audio.nasset"
+    },
+    "78abf4dd-8c9f-0ec5-90dc-d08f40021528": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Impact_Concrete_D.tex.nasset"
+    },
     "78b6b6b2-9777-006d-1072-917db4cf5c47": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Bamboo 2.mesh.nasset/Thumbnails/Bamboo 2.mesh.nasset.tex.nasset"
@@ -2967,6 +3207,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "79661273-2e54-a212-5471-b6871d57e90a": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump Stylized.audio.nasset"
+    },
     "7a1b3785-c0e2-5d02-bdb8-4b10c7fd9630": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Carrot 1.mesh.nasset/Thumbnails/Carrot 1.mesh.nasset.tex.nasset"
@@ -2990,6 +3235,15 @@
         "dependencies": [
             "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
+    },
+    "7a6f4a77-339c-e8f8-a2c7-814e20190ffa": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Laser_Dot_E.tex.nasset"
+    },
+    "7bf809d2-ebb4-1b3d-6dda-617c6d599dc3": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Tick 3.audio.nasset"
     },
     "7c8eb916-78c2-959e-daba-8a1399489521": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -3084,6 +3338,16 @@
             "383f20fb-e347-cad1-3819-34302692f5ca",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "7f2a3305-895c-b9de-18f2-ee9fca577eb1": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Stone 4.audio.nasset"
+    },
+    "7f5a1f01-bd9a-8390-2e50-7bb925ce166f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Stone 2.audio.nasset"
     },
     "7f61900c-454b-5533-ccec-41a7d9efbc53": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3201,6 +3465,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Thumbnail/Farm_Factor_Thumb.tex.nasset"
     },
+    "83814221-4984-36ef-9f41-4cd51ab26d51": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Water 1.audio.nasset"
+    },
     "8455ab66-9694-c7f3-a559-ed79adcc7354": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3261,6 +3530,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "86c94085-d216-4be3-8b98-03cc024ed96f": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Flames.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "0d4f41d5-d66e-f2e1-8135-1da2700dbf1a"
+        ]
+    },
     "877a619d-4ac5-3bc4-08d5-688419077ab3": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3278,6 +3556,11 @@
             "ceca7e4b-92a3-78e0-b082-7504d36af5c1",
             "55be6f92-3512-fd3b-ae6c-f96d2e68faf9"
         ]
+    },
+    "89a30cd2-0bba-0dd2-472d-485124b5cb3f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 1.audio.nasset"
     },
     "8a30f1e0-2331-9961-2c57-606245b35d7c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3307,6 +3590,15 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Flower 4.mesh.nasset/Thumbnails/Flower 4.mesh.nasset.tex.nasset"
     },
+    "8b92903b-e7de-0b9b-3cd6-9e0b8976a279": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Smoke_2_D.tex.nasset"
+    },
+    "8bd01c9f-1dcc-53ed-c2e3-9107f7a7067f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Tick 2.audio.nasset"
+    },
     "8c2411e4-a21f-7eaf-a0cf-d653381752fa": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -3329,6 +3621,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Bush Berries Harvested.mesh.nasset/Thumbnails/Bush Berries Harvested.mesh.nasset.tex.nasset"
     },
+    "8ce85f9e-341a-8ae7-c040-39eb55ea0ffa": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Dirt 2.audio.nasset"
+    },
     "8d02b9e7-a456-8077-ca53-ba195cddabc7": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3339,6 +3636,15 @@
         "dependencies": [
             "5f1188eb-a4c7-ee25-a66c-90a0860cc054",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "8d27ad9e-5b70-4f41-9a83-b5251bf510f5": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Bullet.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "5d4b929f-6e4c-fe0d-132e-0235cafe7aad"
         ]
     },
     "8d2db055-a43c-93fc-0327-77b99fef53a7": {
@@ -3356,6 +3662,11 @@
             "f8ed1d5b-fac5-2526-b773-fe09fdf04b41",
             "70b1827d-f871-a873-e66a-4524caeb0ea5"
         ]
+    },
+    "8d5f126a-bdf8-2fd0-0872-d3518b27c37d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Wood 4.audio.nasset"
     },
     "8fb92198-5f79-1c5b-8f0e-af34dae19f3a": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
@@ -3389,6 +3700,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9113451c-818b-d6c4-da29-ded938084a59": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Water 3.audio.nasset"
+    },
     "921ca542-bc90-99b8-55bc-3bbc26e47178": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3420,6 +3736,11 @@
     "93473289-2f1a-4a70-0469-422cd05ede68": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Bush Berries 4.mesh.nasset/Thumbnails/Bush Berries 4.mesh.nasset.tex.nasset"
+    },
+    "935bb27c-2bde-f151-5de0-ac36d16ac078": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Stone 3.audio.nasset"
     },
     "938c054e-eb9f-9435-bb0d-40c08d8bad32": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3508,6 +3829,11 @@
             "e5082399-bc8d-60c6-9fca-c50e76a27fea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9896166c-538e-4d85-9963-da97cc39b584": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Pickups/Pickup Default 1.audio.nasset"
     },
     "990f57d7-1ac3-934f-1be4-3b164d70494b": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -3599,6 +3925,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "9c3e096e-3531-4a37-a17c-60c6a6a1f7c2": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Smoke 1.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "26fba001-f51c-fb45-dbaa-97a7c3128023"
+        ]
+    },
     "9c5c4102-c7fb-793c-d229-74dc3e7681e5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -3610,6 +3945,11 @@
             "ceca7e4b-92a3-78e0-b082-7504d36af5c1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "9cef721c-899b-e020-afdc-65515286dc21": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Wood 3.audio.nasset"
     },
     "9d13a2db-0ba4-4b27-47b6-9314ab81d202": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -3799,6 +4139,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Watermelon Crop.mesh.nasset/Thumbnails/Watermelon Crop.mesh.nasset.tex.nasset"
     },
+    "a668a931-43f4-f929-bd99-8e2e13c0aaa4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Water 2.audio.nasset"
+    },
     "a693df05-69d7-4b29-5a99-8b9786af5b8a": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Tomato 4.mesh.nasset/Thumbnails/Tomato 4.mesh.nasset.tex.nasset"
@@ -3935,9 +4280,19 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "acb0b004-6ad2-1414-b7c0-12315782f810": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Wood 4.audio.nasset"
+    },
     "adb3e98f-86e7-bd81-5666-5ec39d901763": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Watermelon Harvested.mesh.nasset/Thumbnails/Watermelon Harvested.mesh.nasset.tex.nasset"
+    },
+    "ae8f06c1-b770-43b7-9149-cceb109900fb": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Ambience/Ambience Outdoors 1.audio.nasset"
     },
     "aee86c77-4f0c-5982-b58e-9548915fe30c": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4003,6 +4358,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b2c9ac27-02b1-fd9d-4b5e-3d735095b7dd": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 5.audio.nasset"
+    },
     "b4232ac1-47d0-f80f-4062-253c453613ae": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4043,6 +4403,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "b545bae8-f770-45ce-8cb3-9a19a600e2ec": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Burn_Mark_D.tex.nasset"
+    },
     "b55b30ab-92c9-a4d2-55de-0f4eaf892270": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4058,6 +4422,11 @@
             "cedc6e40-d4fe-ee85-1bc3-9f95e298b628",
             "850c00fe-7ead-11f4-f8a4-73a00b1a4262"
         ]
+    },
+    "b5e47831-b4d9-241c-567b-00fb6e79c9b4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Wood 3.audio.nasset"
     },
     "b6d0e4a9-5a88-d71a-c71b-b83f21204f11": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4109,6 +4478,15 @@
         "dependencies": [
             "cedc6e40-d4fe-ee85-1bc3-9f95e298b628",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b8a40632-b4bc-4adf-b5ef-058e0c4b5a6a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Impact Concrete.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "78abf4dd-8c9f-0ec5-90dc-d08f40021528"
         ]
     },
     "b8e30498-fde5-a280-a9fb-fee7b0f12566": {
@@ -4307,6 +4685,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Red.mtli.nasset.tex.nasset"
     },
+    "bfb07726-4711-ae59-afda-e250d590ee9e": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Pop 1.audio.nasset"
+    },
     "c0aca926-a998-0f2b-3268-64fd3258adf7": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4362,6 +4745,11 @@
             "e5082399-bc8d-60c6-9fca-c50e76a27fea",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "c19122da-220a-7799-6ebb-152a6a462243": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Tick 5.audio.nasset"
     },
     "c261e5fa-7327-163f-29a7-221693952897": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4455,6 +4843,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "c5fb2663-d725-9302-9804-b983a54889a2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Muzzle_Flash_D.tex.nasset"
+    },
     "c681c364-8855-5414-a26b-cffc43ccf999": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -4521,6 +4913,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Palm Tree 4.mesh.nasset/Thumbnails/Palm Tree 4.mesh.nasset.tex.nasset"
     },
+    "c80ecc26-7644-b31f-013b-20916be3ff16": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Stone 2.audio.nasset"
+    },
+    "c82d4992-373a-b22a-977f-842fc0516d6b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Stone 1.audio.nasset"
+    },
     "c8c91144-c1e6-7f77-01f2-da6c7015c8ae": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Tomato 3.mesh.nasset/Thumbnails/Tomato 3.mesh.nasset.tex.nasset"
@@ -4529,6 +4931,11 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Well.mesh.nasset/Thumbnails/Well.mesh.nasset.tex.nasset"
     },
+    "c9b1c39c-e55b-44cb-8d5c-61b0ef784a8d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Pickups/Pickup Warm 1.audio.nasset"
+    },
     "ca503904-952a-9b44-93bf-6ba5556dcd97": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Tomato 1.mesh.nasset/Thumbnails/Tomato 1.mesh.nasset.tex.nasset"
@@ -4536,6 +4943,11 @@
     "ca6c67ea-22f4-368f-5909-065c6d271015": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/Material Instances/Thumbnails/Green Dark 3.mtli.nasset.tex.nasset"
+    },
+    "cac8effc-c51e-a668-3dc0-9abc6ca21ca9": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 2.audio.nasset"
     },
     "cacbacb2-ddb9-c4d7-b443-d35cdb6d0617": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -4576,6 +4988,11 @@
             "4c5bc30a-dc78-49d5-ec7f-88c4abb94f61",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "cd44a87b-da6a-1cd1-6603-6e27a5404ed0": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Water 3.audio.nasset"
     },
     "cdc287dc-45fd-ae66-fc48-3cf71debbb60": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
@@ -4809,6 +5226,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "d57353f3-47c2-45c4-9a60-b1e53f530e10": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/Music/Green Town.audio.nasset"
+    },
     "d646f5e2-4f06-102b-9c58-fc567a15ebe5": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -4838,6 +5260,11 @@
     "d6e2d9d2-13e4-76da-b70e-ff8c51a7106d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Corn 3.mesh.nasset/Thumbnails/Corn 3.mesh.nasset.tex.nasset"
+    },
+    "d725fe2d-e14a-6e95-327f-1afd73414e1b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Water 4.audio.nasset"
     },
     "d7652963-fa5a-4b2a-7f4b-dab96026476f": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -4880,6 +5307,11 @@
     "d7e9833e-4385-625f-717f-dd9f4dd93bb1": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Wheat 4.mesh.nasset/Thumbnails/Wheat 4.mesh.nasset.tex.nasset"
+    },
+    "d827aebc-fc73-b009-8b65-52c01d60af5f": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/UI/UI Object Tick 1.audio.nasset"
     },
     "d84d31b9-25e5-44f6-8b5e-ca00741886b3": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
@@ -4944,6 +5376,15 @@
     "da1648a5-cb9a-f1c4-68ac-c84bceb98798": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Flowers Harvested.mesh.nasset/Thumbnails/Flowers Harvested.mesh.nasset.tex.nasset"
+    },
+    "da3c6f87-ea68-4e53-ba5e-9a3dcfb59803": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Blood.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "2a745502-79d0-ce22-e2be-e0ffa9e5c878"
+        ]
     },
     "db5e61c0-f47e-641e-b870-70f3110bdeb3": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5025,6 +5466,10 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "de64c410-1b0c-aa14-cb46-c70fcaee8465": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Sparks_D.tex.nasset"
+    },
     "de87a7b4-0664-471b-9155-7fefb847569e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5054,6 +5499,11 @@
             "566ce725-15cc-0c5c-40c8-00bf66dcb95f",
             "67b453d4-acba-7ff1-7225-5b8cd0560116"
         ]
+    },
+    "dfe6a1fe-a34f-9416-1d86-fc0e09f96100": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Wood 2.audio.nasset"
     },
     "e01f0743-5500-7b07-195b-323a90fe5afc": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -5135,6 +5585,15 @@
             "b813f640-e36c-69ac-36f3-d54544bfef0f"
         ]
     },
+    "e38a064c-4da5-489d-9dc4-8cc68f8dcba9": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Sparks.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "de64c410-1b0c-aa14-cb46-c70fcaee8465"
+        ]
+    },
     "e3922f76-1d13-e75c-8168-6bf7b52e5f1c": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
@@ -5149,6 +5608,19 @@
         "dependencies": [
             "ceca7e4b-92a3-78e0-b082-7504d36af5c1",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "e3c00081-111d-c05e-f5c8-5aabd49799d1": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Pfx/T_Lightning_D.tex.nasset"
+    },
+    "e4387634-4f69-4e7e-b376-ab3c41d1047a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Laser Sight.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "4d50769a-9500-1a71-ea0e-eb58c62f9a26"
         ]
     },
     "e456520a-5a9f-c6d0-da3f-0203194b39f5": {
@@ -5329,6 +5801,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "ed6c2d92-ce6e-90d7-de00-1a3a1aa3bc7b": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Stone 5.audio.nasset"
+    },
     "ed8f4d64-92fe-fa9c-dbec-5858be726cac": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5395,6 +5872,11 @@
             "35239390-81c6-f285-b618-da7f13cb5814"
         ]
     },
+    "eee85f83-a21c-b747-4b69-11e547ede39d": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Footstep Dirt 5.audio.nasset"
+    },
     "ef7495d5-40ef-4c4e-8924-cb93d4c7180d": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -5455,6 +5937,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f05e6ef5-bb14-439b-b7d7-101ddb58ec13": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Debris Concrete.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "178b9d39-9c2c-d7ee-a621-eeca61bde758"
+        ]
+    },
     "f0639af7-ff0a-2e0f-85b0-d52b409cfac4": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Objects/Material Instances/Coconuts.mtli.nasset",
@@ -5508,6 +5999,20 @@
     "f29de18c-19f2-0bd1-927c-159d3ef5e97e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Objects/SC_Farm_Factor_Pieces.scene.nasset/Mushroom 2.mesh.nasset/Thumbnails/Mushroom 2.mesh.nasset.tex.nasset"
+    },
+    "f2ef8446-47c7-d427-a0c7-98639094e265": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 7.audio.nasset"
+    },
+    "f33e622d-2f0a-4ddc-949d-c96c01ef5fe7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Lightning.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "e3c00081-111d-c05e-f5c8-5aabd49799d1"
+        ]
     },
     "f3e7b941-8214-79ba-e653-71fa9cdc212d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
@@ -5691,6 +6196,11 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "f9be635f-aeac-8e48-0e99-df66e23e75a4": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Landing Dirt 3.audio.nasset"
+    },
     "f9f430e8-5592-5419-b2d4-197badf71e7e": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5723,6 +6233,15 @@
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
+    "fadf7ff7-b459-4442-b51e-3cf6b041ac05": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Burn Mark.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "b545bae8-f770-45ce-8cb3-9a19a600e2ec"
+        ]
+    },
     "fb61d1fa-1a5e-5336-2b2c-588f3b434599": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -5746,6 +6265,20 @@
             "e590933a-c182-61bc-bb26-fd32bfe3a705",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
+    },
+    "fb98c980-ccee-469b-907a-fbe57b79db60": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Pfx/Muzzle Flash.mtli.nasset",
+        "thumbnail": "49d27d33-301e-b382-ac4f-647fffefb02d",
+        "dependencies": [
+            "44e1ec4c-00f6-4c5e-9b71-c7b7c510df71",
+            "c5fb2663-d725-9302-9804-b983a54889a2"
+        ]
+    },
+    "fba971fd-e6bc-233d-dbc7-a3321996ae11": {
+        "assetTypeGuid": "5985a03a-dfc4-4338-b0cd-09f757c4a114",
+        "componentTypeGuid": "ea45accb-89d5-4816-9831-f116045b90e4",
+        "path": "Assets/Audio/SFX/Character/Jump 1.audio.nasset"
     },
     "fcb9a0a6-681c-ec91-7e97-f80e67be571d": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
